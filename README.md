@@ -13,7 +13,7 @@
 
 1. Day # 폴더 양식 맞추기.
 
-2. 폴더 내에서 Day.# 이름 으로 ipynb 저장. (ex) 1.1 python_basic.ipynb
+2. 폴더 내에서 Day_#. 이름 으로 ipynb 저장. (ex) 1_1. python_basic.ipynb
 
 3. 실습에 사용되는 데이터들은 각 폴더 내에 data 폴더 내에 저장.
 
