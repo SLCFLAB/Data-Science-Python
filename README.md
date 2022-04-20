@@ -33,3 +33,7 @@
 * Day 13: 텍스트 전처리 및 텍스트 전처리 실습, vector space model, word2vec, doc2vec, language modeling
 * Day 14: Attention, Transformer, BERT
 * Day 15: 생성모델(GAN), Deep Learning Applications -Practice
+
+## 실습 파일 제출 주소
+
+각 차수에서 실습 진행한 파일(to-do 수행한 파일)은 slcf.snu@gmail.com으로 제출해주세요
