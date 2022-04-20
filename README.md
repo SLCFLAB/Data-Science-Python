@@ -6,7 +6,7 @@
 1. Colab에서 열기>Github>https://github.com/SLCFLAB/Data-Science-Python 입력
 2. 질문은 아래 메일로 부탁드립니다.
 
-   박성완(머신러닝, 블록체인) <sucre87@snu.ac.kr>
+   박성완(블록체인, 머신러닝) <sucre87@snu.ac.kr>
    
    박진성(파이썬, 딥러닝) <jinseong@snu.ac.kr>
    
