@@ -1,0 +1,6 @@
+주로 HuggingFace를 사용해 NLP 모델들을 학습합니다.
+
+아래 링크를 참고해주세요.
+https://github.com/huggingface/notebooks/tree/main/transformers_doc
+https://huggingface.co/docs/transformers/main/en/quicktour
+https://huggingface.co/docs/transformers/notebooks
