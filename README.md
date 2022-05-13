@@ -2,7 +2,7 @@
 [SCLF] Python-and-Pytorch-for-Data-Science 
 
 ## For users
-
+0. 프로젝트용으로 제공받은 샘플 데이터를 원하시는 분은 uznhigh@snu.ac.kr으로 메일주세요.
 1. Colab에서 열기>Github>https://github.com/SLCFLAB/Data-Science-Python 입력
 2. 질문은 아래 메일로 부탁드립니다.
 
